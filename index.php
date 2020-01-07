@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Aplikasi </title>
+	<title> Seoul Culture </title>
 		<link href="css/login.css" rel="stylesheet"/ type="text/css">
 </head>
 <body>
