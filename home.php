@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head> <title> seoulculture </title>
+<head> <title> Seoul Culture </title>
 <link href="css/menu.css" rel="stylesheet"/> 
 <style>
 body {
